@@ -15,37 +15,33 @@ from pycopia.QA import core
 class XXXSampleTest(core.TestCase):
     """
     Purpose
-    +++++++
+    -------
 
     The purpose of this test case.
 
     Pass Criteria
-    +++++++++++++
+    -------------
 
     What is the pass criteria?
 
     Start Condition
-    +++++++++++++++
+    ---------------
 
     What is the state of the DUT this test needs?
 
     End Condition
-    +++++++++++++
+    -------------
 
     What changes to the condition or state of the DUT are made?
 
     Reference
-    +++++++++
+    ---------
 
-    Reference to design document or specification clause.
+    Reference to design document or specification clause, or a URI.
 
-    Prerequisites
-    +++++++++++++
-
-    What tests must pass in order for this test to be ready to run?
 
     Procedure
-    +++++++++
+    ---------
 
     #. Step 1 ...
     #. Step 2 ...
