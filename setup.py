@@ -10,7 +10,7 @@ VERSION = "1.0"
 
 setup(name=NAME, version=VERSION,
       namespace_packages=["testcases"],
-      packages="testcases",
+      packages=["testcases.examples"],
       description="Base namespace package for all test cases.",
       long_description=open("README.md").read(),
       license="LGPL",
